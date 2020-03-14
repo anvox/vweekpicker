@@ -1,0 +1,13 @@
+#weekpicker .datepicker table tr:hover td.day {
+  background: #8A8A8F;
+  color: #fff;
+}
+
+#weekpicker .datepicker table tr.active {
+  background: #FF3B30;
+
+  td.day {
+    background: #FF3B30;
+    color: #000000;
+  }
+}
